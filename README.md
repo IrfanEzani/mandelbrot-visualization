@@ -1,7 +1,11 @@
 # Mandelbrot Set Visualization
 
 ## Overview
-Generate and visualize the Mandelbrot set. Allows for interactive exploration of the fractal pattern of the Mandelbrot set through view adjustments.
+Generation and visualization the Mandelbrot set. Allows for interactive exploration of the fractal pattern of the Mandelbrot set through view adjustments.
+
+## Mandelbrot Set Significance
+
+The Mandelbrot set, named after mathematician Benoit Mandelbrot, holds profound significance in mathematics and the broader field of complex systems. It represents a quintessential example of a fractal - an infinitely complex pattern that is self-similar across different scales. Its study has illuminated insights into the behavior of complex systems, chaos theory, and the nature of mathematical iteration.
 
 ## Features
 - **Complex Number Calculations:** Utilizes the `ComplexNumber` class for handling complex number operations.
