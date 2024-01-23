@@ -1,4 +1,5 @@
 # Mandelbrot Set Visualization
+![image](https://github.com/IrfanEzani/mandelbrot-visualization/assets/59435235/5e4c20d7-94cf-4d79-a684-c61abc486c0d)
 
 ## Overview
 Generation and visualization the Mandelbrot set. Allows for interactive exploration of the fractal pattern of the Mandelbrot set through view adjustments.
